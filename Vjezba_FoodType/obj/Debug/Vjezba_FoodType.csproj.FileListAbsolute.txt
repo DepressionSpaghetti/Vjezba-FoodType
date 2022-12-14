@@ -1,0 +1,8 @@
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\bin\Debug\Vjezba_FoodType.exe.config
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\bin\Debug\Vjezba_FoodType.exe
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\bin\Debug\Vjezba_FoodType.pdb
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\obj\Debug\Vjezba_FoodType.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\obj\Debug\Vjezba_FoodType.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\obj\Debug\Vjezba_FoodType.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\obj\Debug\Vjezba_FoodType.exe
+C:\Users\piero\Documents\School\NiOP\Vjezba_FoodType\Vjezba_FoodType\obj\Debug\Vjezba_FoodType.pdb
